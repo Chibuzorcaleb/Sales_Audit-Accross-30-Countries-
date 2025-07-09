@@ -4,6 +4,9 @@
 
 This data analysis project is to  Transform messy sales data into actionable insights! Sales data from 30  countries contains  mismatched currencies  (USD/EUR/JPY), 12%  missing store IDs, and  duplicate transactions  from POS failures.
 
+![Week 1 Power pivot](https://github.com/user-attachments/assets/ecb622fc-a303-4529-b7b8-b9b80019f176)
+
+
 ### Data Sources
 Sales Data: The primary data used for the analysis is week 1 project file 
 
